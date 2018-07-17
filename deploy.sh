@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 #编译+部署order站点
 
 #需要配置如下参数
